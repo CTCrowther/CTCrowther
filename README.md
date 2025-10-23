@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Charlie Crowther and I am studing Computer Science in Leeds Beckett. 
 
 <!--
 **CTCrowther/CTCrowther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
