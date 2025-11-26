@@ -1,4 +1,4 @@
-## My name is Charlie Crowther and I am studing Computer Science in Leeds Beckett. 
+## My name is Charlie Crowther and I am studying Computer Science in Leeds Beckett. In my time studying I hope to gain skills that lead me to a future career in computing. I believe growing up playing computer games is what sparked my curiosity for how systems operate and are built.
 
 <!--
 **CTCrowther/CTCrowther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
